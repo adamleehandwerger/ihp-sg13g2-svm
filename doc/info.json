@@ -8,7 +8,7 @@
   "sealring_x": 2400,
   "sealring_y": 2400,
   "repository": "https://github.com/adamleehandwerger/ihp-sg13g2-svm",
-  "pdk_version": "c4b8b4e5e7a05f375cca3815d51b3a37721fbf5c",
+  "pdk_version": "",
   "process": "SG13CMOS5L",
   "dependencies": {},
   "tools": {},
